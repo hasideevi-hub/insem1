@@ -1,0 +1,7 @@
+{
+  "courses": [
+    { "id": 1, "title": "React Basics", "instructor": "John Doe", "duration": "4 weeks" },
+    { "id": 2, "title": "Advanced JavaScript", "instructor": "Jane Smith", "duration": "6 weeks" },
+    { "id": 3, "title": "Data Structures", "instructor": "Mark Lee", "duration": "8 weeks" }
+  ]
+}
